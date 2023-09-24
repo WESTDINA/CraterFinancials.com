@@ -1,0 +1,3 @@
+testing\AppTester.class
+com\tools2test\stepdefs\LoginSteps.class
+com\tools2test\uiconfsteps\UI_confirmation.class
